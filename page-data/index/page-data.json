@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Football Wordle"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Have you played Footbl 5 yet? The football game that is going viral on social media. Play on your phone, iPad, laptop or PC. Footbl5 is…","fields":{"slug":"/funny-player-names/"},"frontmatter":{"date":"February 20, 2022","title":"Player Names can be Rude and Funny","description":"Rude and Funny football player names, but will any appear on Footbl 5, Footbl 6 or Missing 11? Play to find out."}},{"excerpt":"Are you obsessed with Wordle? This word guessing game has everyone posting their results\non social media. We probably become obsessed…","fields":{"slug":"/the-perfect-match/"},"frontmatter":{"date":"February 18, 2022","title":"The Perfect Match","description":"Football Wordle games Footbl 5, Footbl 6 and Missing 11 go viral amongst football fans on Twitter and YouTube."}}]}},"pageContext":{}},
+    "staticQueryHashes": ["2841359383"]}
